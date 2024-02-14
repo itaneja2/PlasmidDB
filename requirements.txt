@@ -1,0 +1,5 @@
+numpy==1.20.3
+pandas==1.4.4
+psycopg2_binary==2.9.5
+scipy==1.7.1
+snapgene_reader==0.1.20
